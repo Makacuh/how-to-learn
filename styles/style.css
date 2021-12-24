@@ -276,7 +276,7 @@ min-width:784px;
   
  min-height:250px;
 }
-.footer__column_content_copyright{
+.footer__columns_content_copyright{
   flex-basis: 711px;
 	display: flex;
 	flex-direction: column;
@@ -296,20 +296,20 @@ min-width:784px;
 }
 
 
-.footer__column_content_social{
+.footer__columns_content_social{
   
 	line-height: 30px;
 	font-size: 18px;
 	font-weight: normal;
 }
-.footer__column-heading{
+.footer__columns-heading{
 	line-height: 30px;
 	font-size: 18px;
 	font-weight: bold;
 	margin-bottom: 20px;
 	margin-top: 0;
 }
-.footer__column-links {
+.footer__columns-links {
 	line-height: 30px;
 	font-size: 18px;
 	font-weight: normal;
@@ -317,7 +317,7 @@ min-width:784px;
 	padding: 0;
 	margin: 0;
 }
-.footer__column-link{
+.footer__columns-link{
   color: white;
 	text-decoration: none;
 	height: 16px;
