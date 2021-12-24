@@ -222,10 +222,10 @@ min-width:784px;
 .kaufman__triangle{
   position:absolute;
   right: -210px;
-  top: 120px;
+  top: 0px;
   background-image: url(/images/kaufman-triangle.svg);
   width: 877px;
-  height: 877px;
+  min-height: 877px;
 }
 
 
