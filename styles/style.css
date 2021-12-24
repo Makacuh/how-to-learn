@@ -180,7 +180,7 @@ min-width:784px;
 	background-position: left bottom;
 	background-color: #f2f2f2;
 	background-repeat: no-repeat;
-	min-height: 790px;
+	min-height: 890px;
 }
 .feynman__title{
   line-height: 1.15;
@@ -188,7 +188,8 @@ min-width:784px;
 	font-weight: bold;
 	max-width: 648px;
 	text-align: center;
-	margin: 0 auto;
+  padding-top:100px;
+	margin:0 auto;
  
 }
 .feynman__subtitle{
