@@ -6,3 +6,7 @@
   transition-duration: 0.5s;
   transition-timing-function: ease;
 }
+
+.header__link:hover {
+	opacity: .4;
+}
