@@ -8,6 +8,7 @@
     transition-property: opacity;
     transition-duration: 0.5s;
     transition-timing-function: ease;
+    align-self: start;
 }
 
 .khan__buy-link:hover {

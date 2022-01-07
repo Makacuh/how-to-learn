@@ -12,3 +12,7 @@
   transition-duration: 0.5s;
   transition-timing-function: ease;
 }
+
+.feynman__link:hover {
+	opacity: .4;
+}
